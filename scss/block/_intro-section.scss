@@ -1,0 +1,32 @@
+.intro__section {
+   margin-top: 199px;
+}
+
+.intro__box {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.intro__text {
+   font-weight: 700;
+   font-size: 30px;
+   color: #0C9F64;
+}
+
+.intro__title {
+   width: 369px;
+   margin-top: 15px;
+   margin-bottom: 24px;
+   font-weight: 700;
+   font-size: 56px;
+   color: rgba(14, 16, 22, 0.95);
+}
+
+.intro__about-text {
+   margin-bottom: 26px;
+   width: 392px;
+   font-weight: 400;
+   font-size: 22px;
+   color: rgba(14, 16, 22, 0.95);
+}

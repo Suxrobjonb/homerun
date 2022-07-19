@@ -1,0 +1,136 @@
+.join__club {
+   margin-bottom: 40px;
+}
+
+.club__box {
+   padding: 70px 40px;
+   background-color: #202E78;
+   border-radius: 8px;
+   position: relative;
+}
+.club__img {
+   margin-left: 550px;
+}
+
+.club__title {
+   font-weight: 700;
+   font-size: 56px;
+   text-align: center;
+   color: #FFFFFF;
+}
+
+.club__text {
+   font-weight: 400;
+   font-size: 22px;
+   text-align: center;
+   color: #FFFFFF;
+}
+
+.join__club-link {
+   margin-left: 497px;
+   margin-top: 69px;
+   margin-bottom: 40px;
+   padding: 15px 22px 19px 22px;
+   border: 2px solid #F8F4F4;
+   background-color: #202E78;
+   border-radius: 8px;
+   font-weight: 400;
+   font-size: 18px;
+   text-align: center;
+   color: #F4F6F8; 
+   transition: 0.3s; 
+}
+
+.join__club-link:hover {
+   color: #020202;
+   background-color: #ffffff;
+   cursor: pointer;
+}
+
+.user__about {
+   display: flex;
+}
+
+.women__img {
+   width: 50%;
+   border-radius: 8px 0px 0px 8px;
+}
+
+.mini__macet {
+   width: 50%;
+   padding: 40px 70px 70px 40px;
+   background-color: #000639;
+}
+
+.mocet__title {
+   width: 470px;
+   margin-top: 39px;
+   margin-bottom: 21px;
+   font-weight: 400;
+   font-size: 30px;
+   color: #ffffff;
+}
+
+.mocet__text {
+   font-weight: 400;
+   font-size: 22px;
+   color: #ffffff;
+}
+
+.mocet__button {
+   padding: 15px 22px 19px 22px;
+   margin-top: 66px;
+   font-weight: 400;
+   font-size: 18px;
+   color: #f4f6f8;
+   background-color: #000639;
+   border: 2px solid #f8f4f4;
+   border-radius: 8px;
+   cursor: pointer;
+   transition: 0.3s;
+}
+
+.mocet__button:hover {
+   background-color: #ffffff;
+   color: #141414;
+}
+
+.line__1 {
+   display: inline-block;
+   width: 14px;
+   height: 14px;
+   background-color: #ffffff;
+   position: absolute;
+   bottom: 23px;
+   left: 541px;
+}
+
+.line__2 {
+   display: inline-block;
+   width: 8px;
+   height: 8px;
+   background-color: rgba(255, 255, 255, 0.4);
+   position: absolute;
+   bottom: 25px;
+   left: 577px;
+}
+
+.line__3 {
+   display: inline-block;
+   width: 8px;
+   height: 8px;
+   background-color:  rgba(255, 255, 255, 0.4);
+   position: absolute;
+   bottom: 25px;
+   left: 561px;
+}
+
+.line__4 {
+   display: inline-block;
+   width: 8px;
+   height: 8px;
+   background-color:  rgba(255, 255, 255, 0.4);
+   position: absolute;
+   bottom: 25px;
+   left: 592px;
+}
